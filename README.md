@@ -43,3 +43,8 @@ No known errors as at the completion of the project but in case of any bug or er
 
 ## Support and contact details
 Contact me at johnvictor0002@gmail.com for any comments, reviews or advice.
+
+# License
+This project is under the MIT LICENSE. Feel free to study and use the code.
+
+Copyright (c) 2019 John Victor Njoroge Karanja
