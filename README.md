@@ -29,7 +29,9 @@ When starting up the application, the user is met with the following shortcodes:
     - Python 3.6 required
 
 ## Set-up and Installation
-    - Clone the Repository
+    - Clone the Repository from https://github.com/twyfordsparks/locker.git
+    -run this in the terminal
+      git clone https://github.com/twyfordsparks/locker.git
     - Install python 3.6
     - Run `python3.6 run.py`
 
